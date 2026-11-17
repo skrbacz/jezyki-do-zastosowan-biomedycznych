@@ -1,0 +1,18 @@
+# Wyniki budowania
+bin/
+obj/
+
+# Pliki IDE
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+
+# Wyniki testów i pokrycia
+TestResults/
+*.trx
+coverage/
+
+# Inne
+*.log
